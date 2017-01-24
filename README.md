@@ -15,7 +15,7 @@ This solution is based on [squid-in-a-can](https://github.com/jpetazzo/squid-in-
 ---
 ### Docker Image
 
-[![](https://images.microbadger.com/badges/version/mgvazquez/squid-proxy.svg)](https://microbadger.com/images/mgvazquez/squid-proxy "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/mgvazquez/squid-proxy.svg)](https://microbadger.com/images/mgvazquez/squid-proxy "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/commit/mgvazquez/squid-proxy.svg)](https://microbadger.com/images/mgvazquez/squid-proxy "Get your own commit badge on microbadger.com") [![](https://images.microbadger.com/badges/license/mgvazquez/squid-proxy.svg)](https://microbadger.com/images/mgvazquez/squid-proxy "Get your own license badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/intraway/squid-proxy.svg)](https://microbadger.com/images/intraway/squid-proxy "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/intraway/squid-proxy.svg)](https://microbadger.com/images/intraway/squid-proxy "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/commit/intraway/squid-proxy.svg)](https://microbadger.com/images/intraway/squid-proxy "Get your own commit badge on microbadger.com") [![](https://images.microbadger.com/badges/license/intraway/squid-proxy.svg)](https://microbadger.com/images/intraway/squid-proxy "Get your own license badge on microbadger.com")
 
 ---
 
